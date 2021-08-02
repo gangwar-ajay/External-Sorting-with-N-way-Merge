@@ -35,7 +35,7 @@ For the sake of simplicity, we used text files to simulate disc blocks.The file 
 We assumed that there is only enough capacity in the main memory to store **M** "simulated disc blocks." In other words, we can only read/write to a maximum of **M** "simulated disc blocks" at a time. The value of **M** is also taken as input.
 
 ## Explanation through Example
-See this [link](external_sorting_N-way_merging) to get more clarity.
+See this [link](external_sorting_N-way_merging.pdf) to get more clarity.
   
 ## Acknowledgements
 
